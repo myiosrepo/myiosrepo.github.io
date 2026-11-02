@@ -1,9 +1,9 @@
 Package: com.midnightchips.bettersettings
-Version: 0.1.3
+Version: 0.1.3-1
 Architecture: iphoneos-arm
 Maintainer: MidnightChips
 Filename: bettersettings.deb
-Size: 45230
+Size: 1297630
 Description: BetterSettings tweak for iOS 12 settings customization
 Name: BetterSettings
 
