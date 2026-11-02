@@ -4,5 +4,7 @@ Architecture: iphoneos-arm
 Maintainer: MidnightChips
 Filename: bettersettings.deb
 Size: 45210
-Description: BetterSettings для кастомизации настроек iOS 12
+Description: BetterSettings tweak for iOS 12 settings customization
 Name: BetterSettings
+
+
